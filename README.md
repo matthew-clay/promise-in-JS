@@ -1,4 +1,4 @@
 # promise-in-JS
 
- - async_await_promise.js
+ - async_await_promise
     `Sythetic Sugar`
